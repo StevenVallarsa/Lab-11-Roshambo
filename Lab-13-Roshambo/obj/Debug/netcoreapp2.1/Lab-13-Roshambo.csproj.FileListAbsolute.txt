@@ -1,0 +1,11 @@
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/obj/Debug/netcoreapp2.1/Lab-13-Roshambo.csprojAssemblyReference.cache
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/obj/Debug/netcoreapp2.1/Lab-13-Roshambo.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/obj/Debug/netcoreapp2.1/Lab-13-Roshambo.AssemblyInfoInputs.cache
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/obj/Debug/netcoreapp2.1/Lab-13-Roshambo.AssemblyInfo.cs
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/bin/Debug/netcoreapp2.1/Lab-13-Roshambo.deps.json
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/bin/Debug/netcoreapp2.1/Lab-13-Roshambo.runtimeconfig.json
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/bin/Debug/netcoreapp2.1/Lab-13-Roshambo.runtimeconfig.dev.json
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/bin/Debug/netcoreapp2.1/Lab-13-Roshambo.dll
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/bin/Debug/netcoreapp2.1/Lab-13-Roshambo.pdb
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/obj/Debug/netcoreapp2.1/Lab-13-Roshambo.dll
+/Users/Steve/Projects/Lab-13-Roshambo/Lab-13-Roshambo/obj/Debug/netcoreapp2.1/Lab-13-Roshambo.pdb

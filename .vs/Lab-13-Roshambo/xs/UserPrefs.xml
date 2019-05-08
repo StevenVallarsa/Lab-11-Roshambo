@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2D4BBABA-98F0-485E-87FB-17CEC9092663}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab-13-Roshambo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab-13-Roshambo/Player.cs">
+    <Files>
+      <File FileName="Lab-13-Roshambo/Program.cs" Line="9" Column="49" />
+      <File FileName="Lab-13-Roshambo/Player.cs" Line="10" Column="1" />
+      <File FileName="Lab-13-Roshambo/Rocky.cs" Line="2" Column="1" />
+      <File FileName="Lab-13-Roshambo/Bullwinkle.cs" Line="7" Column="1" />
+      <File FileName="Lab-13-Roshambo/User.cs" Line="4" Column="24" />
+      <File FileName="Lab-13-Roshambo/RoshamboApp.cs" Line="50" Column="1" />
+      <File FileName="Lab-13-Roshambo/Validator.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab-13-Roshambo" expanded="True">
+            <Node name="Lab-13-Roshambo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
