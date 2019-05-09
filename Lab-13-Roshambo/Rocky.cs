@@ -4,13 +4,13 @@ namespace Lab_13_Roshambo
 {
     class Rocky : Player
     {
-        public Rocky()
-        {
+        public Rocky(string Name) : base(Name)
+        { 
         }
 
         public override string GenerateRoshambo()
         {
-            return "Rock";
+            return RPS.Rock;
         }
     }
 }

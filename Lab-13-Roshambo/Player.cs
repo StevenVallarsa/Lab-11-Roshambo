@@ -5,15 +5,16 @@ namespace Lab_13_Roshambo
 {
     abstract class Player
     {
+        public Validator v = new Validator();
+
         public string Name { get; set; }
         public List<string> Roshambo { get; set; }
         public List<string> roshamboValues = new List<string>() { "Rock", "Paper", "Scissors" };
-        public Random r = new Random();
         public List<int> userRecord = new List<int>() { 0, 0, 0 };
-        public List<int> oppRecord = new List<int>() { 0, 0, 0 };
 
-        public Player()
+        public Player(string Name)
         {
+            this.Name = Name;
         }
 
         public abstract string GenerateRoshambo();

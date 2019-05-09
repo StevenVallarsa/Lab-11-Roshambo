@@ -3,9 +3,8 @@ namespace Lab_13_Roshambo
 {
     class User : Player
     {
-        public User()
+        public User(string Name) : base(Name)
         {
-
         }
 
         public override string GenerateRoshambo()
@@ -20,23 +19,38 @@ namespace Lab_13_Roshambo
             }
 
             Console.WriteLine();
-            Console.Write("What is your choice? (1, 2 or 3) ");
 
-            string input = Console.ReadLine();
+            string input = "";
+            bool run = true;
+            while (run)
+            {
+                Console.Write("What is your choice? (1, 2 or 3) ");
+                input = Console.ReadLine();
 
-            // NEEDS VALIDATION FIRST
+                if (!v.TheValidator(input, 3))
+                {
+                    Console.WriteLine("Oops. I didn't understand that.");
+                    Console.WriteLine();
+                }
+                else
+                {
+                    run = false;
+                }
 
+            }
+
+            // with validation, 'input' can only be "1", "2" or "3"
             if (input == "1")
             {
-                return roshamboValues[0];
+                return RPS.Rock;
             }
             else if (input == "2")
             {
-                return roshamboValues[1];
+                return RPS.Paper;
             }
             else
             {
-                return roshamboValues[2];
+                return RPS.Scissors;
             }
 
         }
